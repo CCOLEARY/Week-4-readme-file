@@ -1,0 +1,68 @@
+---
+title: "Women less likely to be given CPR by passers-by - campaigner"
+output: pdf_document
+author: "Peter Reed & Hayley Coyle"
+pdf_document: default
+html_document:
+    df_print: paged
+date: "2024-10-18"
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Women are less likely to receive CPR from a stranger if they collapse because of a reluctance to touch their breasts, according to a new campaign.**
+
+The reason is the "embarrassment, fear and doubt" about touching or exposing their chest while giving assistance.
+
+Campaigner and paramedic Kelly Wooller said more mannequins with breasts were needed for CPR training to "save women's lives".
+
+She told the BBC: "We need to level the playing field."
+
+Ms Wooller, an advanced clinical practitioner based in Sheffield, is behind the SARAHsays campaign, which aims to educate people about performing CPR on women and "annihilate" any stigma about potentially touch a breast.
+
+She continued: "People are embarrassed to touch a female's chest in public due to fear of litigation or not knowing what to do.
+
+"There are statistics out there that indicate that women are 28% less likely to receive CPR in public because we have breasts and because people are trained on male, flat-chested mannequins."
+
+The figure comes from research published by the European Heart Journal in 2019.
+
+Ms Wooller's company ACW Medical provides CPR training for various organisations such as the Army and NHS and has started to provide mannequins with breasts.
+
+She said she wants to raise awareness about the issue on International Women's Day and also point out that people who perform CPR on strangers are protected by the Sarah Act.
+
+The Sarah Act is also known as the The Social Action, Responsibility and Heroism Act 2015, a bill to "take a range of measures to encourage volunteering and involvement in social action".
+
+Ms Wooley said the SARAHsays campaign also calls for better guidance when performing CPR on women and to banish any hesitation about removing clothing and bras if necessary - especially if a defibrillator is needed.
+
+She said: "A woman's chest needs to be completely bare if those pads are to be applied.
+
+"The underwiring in a bra can actually be harmful as it absorbs some of the current and can cause burns."
+
+
+# CPR Facts
+- Both compressions and breaths are very important in drowning, choking, drug overdoses, and pediatric CPR.\
+- If you perform CPR, you can triple the person’s chance of survival.\
+- Compressions should be performed at a rate of 100-120/min. (to the beat of Stayin’ Alive)\
+- For every minute that someone is unconscious and not breathing without CPR, they have a 10% less chance of survival.\
+- 356,000 people suffer from cardiac arrest each year.\
+- If someone is in cardiac arrest, CPR can only make the situation better.\
+- The longest successful CPR save is 96 minutes long!\
+- Many AEDs (Automated External Defibrillators) will talk you through how to perform CPR with the press of a button.\
+- The compression to ventilation ratio is 30 compressions to 2 breaths.\
+- Children as young as 9 have saved the lives of others with CPR.\
+- With widespread access to AEDs at least 40,000 lives would be saved each year.\
+- The life you save with CPR will most likely be someone you love.
+
+# Cardiac arrest facts
+1. Almost 90% of people who suffer out-of-hospital cardiac arrests die\
+2. Every minute without cardiopulmonary resuscitation (CPR) or defibrillation reduces someone's survival chances by 10%\
+3. CPR, especially if performed in the first few minutes of cardiac arrest, can double or triple a person's chance of survival.\
+4. During CPR, you should push on the chest at a rate of 100 to 120 compressions per minute. The beat of the Bees Gees' hit Stayin' Alive is a perfect match for this
+
+**Source:**
+https://www.bbc.co.uk/news/uk-england-south-yorkshire-68512800
+
+
